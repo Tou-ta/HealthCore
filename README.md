@@ -1,7 +1,7 @@
 # HealthCore - Healthcare Management System
 
 ## Overview
-
+This project is part of the software engineering course at university of Trento.
 HealthCore is a web-based healthcare management system developed for a small network of hospitals. The system aims to provide a secure and efficient platform that connects patients, doctors, and administrators while ensuring the protection of sensitive medical information.
 
 The project was developed as part of a software engineering course (University of Trento) and follows a layered architecture designed to support maintainability, scalability, and security.
